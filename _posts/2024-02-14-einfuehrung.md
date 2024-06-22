@@ -2,7 +2,7 @@
 title: "Wo bin ich gestartet?"
 date: 2024-02-14
 ---
-Herzlich willkommen zu meinem ersten Blogbeitrag! In diesem Beitrag werde ich euch einen Einblick in mein Leben, meine Erfahrungen, meine Erwartungen an das Modul Bibliotheks- und Archivinformatik und meine berufliche Zukunft geben. Viel Spass beim Lesen!
+Herzlich willkommen zu meinem ersten Blogbeitrag! In diesem Beitrag werde ich euch einen Einblick in mein Leben, meine Erfahrungen, meine Erwartungen an das Modul Bibliotheks- und Archivinformatik und mein geplantes Lerntagebuch geben. Viel Spass beim Lesen!
 
 ## Zu meiner Person
 
