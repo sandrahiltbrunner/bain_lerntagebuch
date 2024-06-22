@@ -2,6 +2,7 @@
 title: "Wo bin ich gestartet?"
 date: 2024-02-14
 ---
+Herzlich willkommen zu meinem ersten Blogbeitrag! In diesem Beitrag werde ich euch einen Einblick in mein Leben, meine Erfahrungen, meine Erwartungen an das Modul Bibliotheks- und Archivinformatik und meine berufliche Zukunft geben. Viel Spass beim Lesen!
 
 ## Zu meiner Person
 
@@ -20,3 +21,7 @@ Ich bin sehr gespannt und interessiert wie Softwarelösungen und Standards in de
 ## Mein Lerntagebuch
 
 Der Inhalt meines Lerntagebuchs basiert auf den Themen, die im Unterricht behandelt werden. Mein Ziel ist es, die Inhalte jeder einzelnen Einheit zu reflektieren und mich kritisch mit den Lerninhalten auseinanderzusetzen. Ich möchte nicht nur verstehen, was im Unterricht besprochen wurde, sondern auch meine eigenen Gedanken, Fragen und Erkenntnisse festhalten. 
+
+Wenn nicht anders gekennzeichnet entstammen alle theoretischen Inhalte aus den Vorlesungen des Moduls Bibliotheks- und Archivinformatik im Frühlingssemesters 2024 mit Felix Lohmeier.
+
+Für die Erstellung meines Lerntagebuchs habe ich mich, wie in der Vorlesung empfohlen, für GitHub entschieden. Dabei nutze ich jeweils einen neu erstellten Codespace, anstelle eines Editors auf meinem Rechner zu verwenden. Die GitHub Codespaces wurden uns am ersten Tag des Moduls vorgestellt, und ich war sofort begeistert davon.
